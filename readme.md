@@ -1,8 +1,4 @@
-proiect-git
-
-nush ce fac da fac ceva
-
- un nou commit  de test
+   proiect-git
 
  # Descriere: proiect pentru laboratorul de Git
    
